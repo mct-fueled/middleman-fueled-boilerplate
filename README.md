@@ -6,7 +6,8 @@ A middleman project template based on the Fueled Boilerplate
 
 1. Clone **middleman-boilerplate** into `~/.middleman`.
    You will need to create this directory if it doesn't exist.
-   ```
+
+   ```bash
    $ git clone https://github.com/mct-fueled/middleman-fueled-boilerplate.git ~/.middleman/fueled-boilerplate
    ```
 2. `cd` into your directory where you keep all your sites.
